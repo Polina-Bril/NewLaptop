@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<w:Books
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="DataForLibraryXML.xsd"
+	xmlns:w="DataForLibraryXML.xsd">
+	<Book>
+		<name>А зори здесь тихие...</name>
+		<author>Васильев</author>
+		<genre>Трагедия</genre>
+		<isSoftCover>true</isSoftCover>
+		<yearOfPublishing>1984</yearOfPublishing>
+		<forTakingHome>0</forTakingHome>
+		<quantityOfThisBooks>5</quantityOfThisBooks>
+	</Book>
+			<Book>
+		<name>Убийство в Восточном экспрессе</name>
+		<author>Агата Кристи</author>
+		<genre>Детектив</genre>
+		<isSoftCover>false</isSoftCover>
+		<yearOfPublishing>1990</yearOfPublishing>
+		<forTakingHome>1</forTakingHome>
+		<quantityOfThisBooks>2</quantityOfThisBooks>
+	</Book>
+		<Book>
+		<name>Математика для программистов</name>
+		<author>Жиянов</author>
+		<genre>Наука</genre>
+		<isSoftCover>true</isSoftCover>
+		<yearOfPublishing>2015</yearOfPublishing>
+		<forTakingHome>0</forTakingHome>
+		<quantityOfThisBooks>1</quantityOfThisBooks>
+	</Book>
+			<Book>
+		<name>Интрига</name>
+		<author>Лоуренс</author>
+		<genre>Роман</genre>
+		<isSoftCover>false</isSoftCover>
+		<yearOfPublishing>1995</yearOfPublishing>
+		<forTakingHome>1</forTakingHome>
+		<quantityOfThisBooks>2</quantityOfThisBooks>
+	</Book>
+		<Book>
+		<name>Война и Мир</name>
+		<author>Толстой</author>
+		<genre>Классика</genre>
+		<isSoftCover>true</isSoftCover>
+		<yearOfPublishing>1950</yearOfPublishing>
+		<forTakingHome>0</forTakingHome>
+		<quantityOfThisBooks>4</quantityOfThisBooks>
+	</Book>
+			<Book>
+		<name>Капитал</name>
+		<author>Маркс</author>
+		<genre>Наука</genre>
+		<isSoftCover>false</isSoftCover>
+		<yearOfPublishing>1980</yearOfPublishing>
+		<forTakingHome>1</forTakingHome>
+		<quantityOfThisBooks>3</quantityOfThisBooks>
+	</Book>
+		<Book>
+		<name>Head First Java</name>
+		<author>Сьерра</author>
+		<genre>Учебное пособие</genre>
+		<isSoftCover>true</isSoftCover>
+		<yearOfPublishing>2015</yearOfPublishing>
+		<forTakingHome>0</forTakingHome>
+		<quantityOfThisBooks>1</quantityOfThisBooks>
+	</Book>
+			<Book>
+		<name>Джава</name>
+		<author>Шилдт</author>
+		<genre>Учебное пособие</genre>
+		<isSoftCover>false</isSoftCover>
+		<yearOfPublishing>2010</yearOfPublishing>
+		<forTakingHome>1</forTakingHome>
+		<quantityOfThisBooks>2</quantityOfThisBooks>
+	</Book>
+		<Book>
+		<name>Ромео и Джульетта</name>
+		<author>Шекспир</author>
+		<genre>Роман</genre>
+		<isSoftCover>true</isSoftCover>
+		<yearOfPublishing>1984</yearOfPublishing>
+		<forTakingHome>0</forTakingHome>
+		<quantityOfThisBooks>5</quantityOfThisBooks>
+	</Book>
+			<Book>
+		<name>Преступление и наказание</name>
+		<author>Достоевский</author>
+		<genre>Классика</genre>
+		<isSoftCover>false</isSoftCover>
+		<yearOfPublishing>1998</yearOfPublishing>
+		<forTakingHome>1</forTakingHome>
+		<quantityOfThisBooks>4</quantityOfThisBooks>
+	</Book>
+</w:Books>
